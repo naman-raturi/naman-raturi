@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**naman-raturi/naman-raturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello Hello , I'm Naman 👋
 
 Product & Growth Analyst at Careem (an Uber company), working across Product & growth  analytics.
@@ -14,18 +9,18 @@ Over the last 4 years, I've worked at Careem, Myntra, OYO International, and Rel
 Right now, I'm most excited about applying AI and LLMs to analytics workflows — moving from dashboards that answer questions to agents that ask them.
 
 
-What I do
+**What I do**
 
-Product & Growth Analytics
+**Product & Growth Analytics**
 Defining metrics, owning experimentation end-to-end (design → execution → reporting), and building frameworks that tie product changes to business outcomes.
 
-Merchandising Analytics
+**Merchandising Analytics**
 Full-funnel analysis from impression to order — conversion rates, revenue attribution, incrementality measurement, and campaign ROI visibility.
 
-LLM-powered Analytics Tools
+**LLM-powered Analytics Tools**
 Built a Slack bot using OpenAI APIs that lets non-technical stakeholders query product and growth data in natural language — cutting ad-hoc requests significantly.
 
-Attribution & Funnel Modeling
+**Attribution & Funnel Modeling**
 Event-level user journey models to identify drop-offs, conversion drivers, and dead ends in product funnels.
 
 **Stack**
