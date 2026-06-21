@@ -1,4 +1,4 @@
-![banner](banner.jpg)
+![banner](banner1.jpg)
 # Hello Hello , I'm Naman 👋
 
 Product & Growth Analyst at **Careem** (an Uber company), working across Q-Commerce merchandising and growth analytics.
