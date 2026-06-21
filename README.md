@@ -12,7 +12,7 @@ Right now, I'm most excited about applying **AI and LLMs to analytics workflows*
 ## What excites me about analytics
 
 Statistics is taught as theory:  distributions, significance levels, confidence intervals.  
-What excites me is when that theory becomes the reason a product decision gets made or reversed.
+What excites me is when that theory becomes the reason a business/product decision gets made or reversed.
 
 A/B test that kills a feature everyone loved. A funnel drop-off that rewrites a roadmap.  
 Conversion data that overrules a gut call in a room full of opinions.
