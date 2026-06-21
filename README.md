@@ -2,14 +2,23 @@
 
 Product & Growth Analyst at **Careem** (an Uber company), working across Q-Commerce merchandising and growth analytics.
 
-I didn't start in data. My background is Mechanical Engineering,  which taught me to think in systems, break down failure modes, and ask why before how. I pivoted into analytics after college and haven't looked back.
+I didn't start in data. I am a Mechanical Engineer by degree,  which taught me to think in systems, break down failure modes, and ask why before how. I pivoted into analytics after college and haven't looked back.
 
 Over the last 4 years, I've worked at **Careem**, **Myntra**, **OYO International**, and **Reliance**  across q-commerce, fashion e-commerce, hospitality, and manufacturing — building everything from experimentation frameworks and attribution models to LLM-powered internal tools.
 
 Right now, I'm most excited about applying **AI and LLMs to analytics workflows**,  moving from dashboards that answer questions to agents that ask them.
 
 ---
+## What excites me about analytics
 
+Statistics is taught as theory:  distributions, significance levels, confidence intervals.  
+What excites me is when that theory becomes the reason a product decision gets made or reversed.
+
+A/B test that kills a feature everyone loved. A funnel drop-off that rewrites a roadmap.  
+Conversion data that overrules a gut call in a room full of opinions.
+
+That gap — between a formula in a textbook and a decision in a business — is exactly where I want to work.
+---
 ## What I do
 
 **Product & Growth Analytics**  
@@ -56,8 +65,8 @@ A/B Testing · Metric Design · ETL Pipelines
 
 ## Beyond the data
 
-**⚽ Football **  
- Still find a game whenever I can.
+**⚽ Football**  
+ Right Winger.Still find a game whenever I can.
 
 **🏍️ The Long Way Round**  
 Biking. The bike isn't just transport; it's the reason to leave.
