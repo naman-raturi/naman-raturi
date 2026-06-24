@@ -3,7 +3,7 @@
 
 Product & Growth Analyst at **Careem** (an Uber company), working across Q-Commerce merchandising and growth analytics.
 
-I didn't start in data. I am a Mechanical Engineer by degree,  which taught me to think in systems, break down failure modes, and ask why before how. I pivoted into analytics after college and haven't looked back.
+I didn't start in data. I am a Mechanical Engineer by degree  from NIT Jalandhar (2018–2022),  which taught me to think in systems, break down failure modes, and ask why before how. I pivoted into analytics after college and haven't looked back.
 
 Over the last 4 years, I've worked at **Careem**, **Myntra**, **OYO International**, and **Reliance**  across q-commerce, fashion e-commerce, hospitality, and manufacturing,  building everything from experimentation frameworks and attribution models to LLM-powered internal tools.
 
